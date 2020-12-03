@@ -32,7 +32,7 @@
         <dataLoadCoordinator auto="true"/>
     </facets>
     <layout>
-        <hbox spacing="true">
+        <!--<hbox spacing="true"> todo rp remove jmix-sampler/issues/19
             <tokenList caption="Without 'Clear' button"
                        clearEnabled="false"
                        dataContainer="orderDc"
@@ -48,6 +48,6 @@
                 <lookup optionsContainer="allItemsDc"/>
                 <clearButton icon="REMOVE"/>
             </tokenList>
-        </hbox>
+        </hbox>-->
     </layout>
 </window>

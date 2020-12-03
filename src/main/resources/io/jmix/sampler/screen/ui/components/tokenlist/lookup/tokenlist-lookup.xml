@@ -32,12 +32,12 @@
         <dataLoadCoordinator auto="true"/>
     </facets>
     <layout>
-        <tokenList id="invoiceList"
+        <!--<tokenList id="invoiceList" todo rp remove jmix-sampler/issues/19
                    dataContainer="orderDc"
                    property="items"
                    width="320px">
             <lookup lookup="true"
                     optionsContainer="allItemsDc"/>
-        </tokenList>
+        </tokenList>-->
     </layout>
 </window>

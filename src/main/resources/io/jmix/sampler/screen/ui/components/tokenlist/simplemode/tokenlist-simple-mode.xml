@@ -32,7 +32,7 @@
         <dataLoadCoordinator auto="true"/>
     </facets>
     <layout>
-        <tokenList id="linesList"
+        <!--<tokenList id="linesList" todo rp remove jmix-sampler/issues/19
                    dataContainer="orderDc"
                    property="items"
                    simple="true"
@@ -40,6 +40,6 @@
             <lookup multiselect="true"
                     optionsContainer="allItemsDc"/>
             <addButton icon="PLUS"/>
-        </tokenList>
+        </tokenList>-->
     </layout>
 </window>
