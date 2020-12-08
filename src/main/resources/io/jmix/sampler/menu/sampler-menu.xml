@@ -754,7 +754,8 @@
             </item>
         </menu>
 
-        <menu id="tokenlist">
+        <!-- todo rp https://github.com/Haulmont/jmix-sampler/issues/19  -->
+        <!--<menu id="tokenlist">
             <item id="tokenlist-simple" docUrlSuffix="gui_TokenList" image="components/tokenlist/tokenlist-simple.png">
                 <otherFiles>
                     <file name="io/jmix/sampler/entity/Order.java"/>
@@ -788,7 +789,7 @@
                     <file name="io/jmix/sampler/entity/OrderItem.java"/>
                 </otherFiles>
             </item>
-        </menu>
+        </menu>-->
 
         <menu id="tree">
             <item id="tree-simple" docUrlSuffix="gui_Tree" image="components/tree/tree-simple.png">
